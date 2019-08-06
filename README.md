@@ -1,6 +1,6 @@
 ## Instructions
 
-> cd basic-flask-nginx-docker
+> cd basic-nginx-flask-docker
 
 > docker build -t hello-world .
 
